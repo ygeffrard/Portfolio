@@ -1,0 +1,10 @@
+red:27 
+yellow:102 
+green:311 
+yellow:12 
+blue:45
+red:27 
+sag:67
+aghl : 89
+sag :-17
+yellow:-44

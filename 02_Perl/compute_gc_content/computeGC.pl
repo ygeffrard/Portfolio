@@ -83,3 +83,5 @@ sub compute_gc_content{
 	return (($gc*100) / $neucloLen);
 	}
 }
+
+#(C) YARLEY G, FREE TO USE

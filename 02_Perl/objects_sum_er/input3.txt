@@ -1,0 +1,9 @@
+red:32
+red:48
+yellow:72
+green:311
+yellow:-12 blue:45
+red : 65
+green:23 yellow : 5
+blue:7
+red:-27

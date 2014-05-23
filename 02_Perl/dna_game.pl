@@ -84,3 +84,4 @@ if ($matchDNA ne 'q')
 print "Congratulations! You've succesfully transcribe DNA : ", @myDNA, " to\nRNA : ", @updateRNA, "\n";
 }
 
+#(C) YARLEY G, FREE TO USE
