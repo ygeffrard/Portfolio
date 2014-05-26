@@ -1,0 +1,16 @@
+lion     55.737
+dennis 24.7
+human 9.0
+lawr
+ape 11.0
+tiger 50
+jacob 2.46
+elephant 76.337897
+monkey                  14.0
+yarley 82
+giova 19.64
+lago -16
+luis 42
+
+
+
